@@ -6,7 +6,7 @@ A machine learning web app that classifies sky objects from the Sloan Digital Sk
 
 ## Live Demo
 
-🔗 [Add your Streamlit Cloud link here once deployed]
+🔗 https://sdss-star-classifier-dajrmsxy2wdfpevjse6hoh.streamlit.app/
 
 ## Overview
 
